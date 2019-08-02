@@ -26,4 +26,8 @@ Nothing here yet...
 
 ### Project: Create a Chat Room Application with Spring Boot
 
-Nothing here yet...
+#### 1. Project Overview
+
+**CORRECTIONS**
+
+Instructions state that ```WebSocketChatApplication.java``` does not need updated. But starter code has //TODO statements within class methods, suggesting that student does need to make updates.
