@@ -7,6 +7,7 @@ Nothing here yet...
 ### Lesson 2: Introduction to the Spring Boot framework
 
 **HELP**
+
 [Spring Boot Hello World walkthrough](https://docs.google.com/document/d/1U9YSsxs45A6j6dpF9frOB4_6AHoHhBRP3_Hq8WBTmNg/edit?usp=sharing)
 
 ### Lesson 3: Spring Boot template engine
@@ -28,6 +29,10 @@ Nothing here yet...
 ### Project: Create a Chat Room Application with Spring Boot
 
 #### 1. Project Overview
+
+**HELP**
+
+[Project Rubric](https://docs.google.com/document/d/1F2-p99c7_G6p41YQfnz5ehtySMlxQwZ9W-gqzONgPTw/edit?usp=sharing)
 
 **CORRECTIONS**
 
