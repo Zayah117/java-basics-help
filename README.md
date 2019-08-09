@@ -34,6 +34,8 @@ Nothing here yet...
 
 [Project Rubric](https://docs.google.com/document/d/1F2-p99c7_G6p41YQfnz5ehtySMlxQwZ9W-gqzONgPTw/edit?usp=sharing)
 
+Javascript login() function - [How to redirect webpage](https://www.w3schools.com/howto/howto_js_redirect_webpage.asp)
+
 **CORRECTIONS**
 
 Instructions state that ```WebSocketChatApplication.java``` does not need updated. But starter code has //TODO statements within class methods, suggesting that student does need to make updates.
