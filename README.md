@@ -6,7 +6,8 @@ Nothing here yet...
 
 ### Lesson 2: Introduction to the Spring Boot framework
 
-Nothing here yet...
+**HELP**
+[Spring Boot Hello World walkthrough](https://docs.google.com/document/d/1U9YSsxs45A6j6dpF9frOB4_6AHoHhBRP3_Hq8WBTmNg/edit?usp=sharing)
 
 ### Lesson 3: Spring Boot template engine
 
