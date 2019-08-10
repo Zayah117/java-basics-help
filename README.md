@@ -47,3 +47,5 @@ Instructions state that ```WebSocketChatApplication.java``` does not need update
 [Guide To the Java API for WebSocket](https://www.baeldung.com/java-websockets)
 
 [Spring Boot MockMVC Example](https://howtodoinjava.com/spring-boot2/spring-boot-mockmvc-example/)
+
+[Using WebSocket in Javascript](https://javascript.info/websocket)
