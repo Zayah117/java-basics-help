@@ -8,6 +8,8 @@ Nothing here yet...
 
 **HELP**
 
+When the course refers to adding a directory, like controller or model, use IntelliJ to create a package.
+
 [Spring Boot Hello World walkthrough](https://docs.google.com/document/d/1U9YSsxs45A6j6dpF9frOB4_6AHoHhBRP3_Hq8WBTmNg/edit?usp=sharing)
 
 ### Lesson 3: Spring Boot template engine
