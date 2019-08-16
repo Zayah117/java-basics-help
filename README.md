@@ -34,7 +34,7 @@ Nothing here yet...
 
 **HELP**
 
-[Project Rubric](https://docs.google.com/document/d/1F2-p99c7_G6p41YQfnz5ehtySMlxQwZ9W-gqzONgPTw/edit?usp=sharing)
+[Project Rubric](https://review.udacity.com/#!/rubrics/2647/view)
 
 Javascript login() function - [How to redirect webpage](https://www.w3schools.com/howto/howto_js_redirect_webpage.asp)
 
