@@ -36,6 +36,12 @@ Nothing here yet...
 
 [Project Rubric](https://review.udacity.com/#!/rubrics/2647/view)
 
+[Detailed Introduction to Project](https://youtu.be/xkxjLPvLcEI)
+
+[Finished Project Example](https://youtu.be/6q35FhTmJjg)
+
+[Project Outline](https://www.dropbox.com/s/0vekpqum8x2p5c4/chatroom-project-outline.png?dl=0)
+
 Javascript login() function - [How to redirect webpage](https://www.w3schools.com/howto/howto_js_redirect_webpage.asp)
 
 **CORRECTIONS**
